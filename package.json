@@ -26,7 +26,8 @@
 		"benchmark": "NODE_NO_WARNINGS=1 node --loader ts-node/esm"
 	},
 	"files": [
-		"build"
+		"build",
+		"src"
 	],
 	"keywords": [
 		"react",
